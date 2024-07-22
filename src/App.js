@@ -75,7 +75,7 @@ function GfGWeatherApp() {
 	return (
 		<div className="App">
 			<h1 className="app-name">
-				GeeksforGeeks Weather App
+				 Weather App
 			</h1>
 			<div className="search-bar">
 				<input
